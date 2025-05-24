@@ -1,9 +1,9 @@
-#Protifólio de projetos
+# Protifólio de projetos
 
-##Introdução
+## Introdução
 Portifólio para apresentação e organização de projetos pessoais.
 
-##Projetos em desenvolvimento
+## Projetos em desenvolvimento
 - Projeto Anymais
 	- [x] Fase de planejamento
 	- [ ] Fase de Requisitos
